@@ -1,0 +1,68 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(Lagos-Skyline.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.sign-up-form {
+	width: 300px;
+	text-align: center;
+	padding: 25px;
+	margin: 8% auto 0;
+	background: #ffffff;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+}
+
+.sign-up-form h1 {
+	color: #ba9547;
+	margin-bottom: 20px;
+}
+
+.input-box {
+	border-radius: 20px;
+	padding: 10px;
+	margin: 5px 0;
+	width: 80%;
+	border: 1px solid #999999;
+	outline: none;
+
+}
+
+button {
+	color: #ffffff;
+	width: 90%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	margin: 10px 0;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.sign-in-btn {
+	background-color: #947f53; 
+}
+
+.sign-up-btn {
+	background-color: #947f53; 
+}
+
+hr {
+	margin-top: 10px;
+	width: 80%;
+}
+
+.or {
+	background-color: #ffffff;
+	width: 30px;
+	margin: -19px auto 10px;
+}
+
+img {
+	width: 70px;
+	margin-top: -20px;
+}
